@@ -78,7 +78,8 @@ public class Lists03 {
 		System.out.println(Arrays.toString(list2.toArray()));//[111, 222, 333, 444, 555]
 		
 		// How to convert an array to a list. We use this many times.
-		//When you create a list by using array, some array features tranfort to a list 
+		
+		//When you create a list by using array, some array features transfort to a list 
 		//as you know arrays are not flexible in length, the list which is created from an array will not be flexible in size.
 		
 		//Note: The methods are not related with length can be used in length which are created from arrays.
@@ -92,6 +93,8 @@ public class Lists03 {
 		System.out.println(list3);//[1, 63, 21, 13]
 
 		System.out.println(list3.subList(2, 4));
+		
+		//
 		
 		
 		
